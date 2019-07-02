@@ -1,2 +1,2 @@
 # pythonBasement
-this is a simple python project
+this is a mysterious python project
